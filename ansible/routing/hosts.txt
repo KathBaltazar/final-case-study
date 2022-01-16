@@ -1,0 +1,8 @@
+ITSO          ansible_host=192.168.20.1
+Admissions    ansible_host=10.0.0.2
+OSA           ansible_host=10.0.0.6
+
+[routers]
+ITSO
+Admissions
+OSA
